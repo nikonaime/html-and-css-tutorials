@@ -1,0 +1,38 @@
+main div, header, footer {
+    height: 150px;
+    margin-bottom: 30px;
+    background: #DEE2EC;
+}
+
+header{
+    width: 600px;
+}
+
+footer {
+    width: 600px;
+}
+
+.col-1{
+    width: 285px;
+    background-color:#1AC8DB;
+    float: left;
+}
+
+.col-2{
+    width: 285px;
+    background-color: #0292B7;
+    float: right;
+}
+
+.col-3{
+    background-color: #8C756A;
+    width: 400px;
+    clear: both;
+    margin: auto;
+    margin-bottom: 30px;
+}
+
+main {
+    width: 600px;
+    margin: auto;
+}
