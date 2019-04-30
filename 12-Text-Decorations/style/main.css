@@ -1,0 +1,20 @@
+h1{
+    font-family: 'Lobster';
+}
+
+p {
+    font-family: 'PT Sans';
+    font-weight: 400;
+}
+.regular{
+    font-family: 'PT Sans';
+}
+
+.italic{
+    font-style: italic;
+}
+
+.bold{
+    font-weight: bold;
+}
+
