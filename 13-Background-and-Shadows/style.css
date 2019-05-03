@@ -27,6 +27,7 @@ section {
     display: flex;
     justify-content: center;
     align-items: center;
+    overflow: hidden;
 }
 
 section > div {
@@ -39,6 +40,8 @@ section > div {
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
+    filter: blur(16px);
+    transform: scale(1.1);
 }
 
 section > div::before {
